@@ -1,0 +1,30 @@
+.choiceBtn{
+    line-height: 30px;
+    width: 150px;
+    font-family: 'Courier New', Courier, monospace;
+    color:rgb(103, 64, 1);
+    font-size: larger;
+    font-weight: bold;
+    background-color: transparent;
+}
+#gameDiv{
+    font-family: 'Brush Script MT', cursive;
+    font-size: larger;
+    margin-top: 18%;
+    text-align:center;
+    
+}
+#playerText{
+    color: rgb(103, 6, 52);
+}
+#computerText{
+    color: red;
+}
+
+body{
+    background-image: url("psr.webp");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: 100% 100%;
+}
